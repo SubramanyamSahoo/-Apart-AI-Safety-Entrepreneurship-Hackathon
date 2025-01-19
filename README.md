@@ -1,2 +1,2 @@
-# -Apart-AI-Safety-Entrepreneurship-Hackathon
+# Apart-AI-Safety-Entrepreneurship-Hackathon
 codebases of hackathon
